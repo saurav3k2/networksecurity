@@ -10,5 +10,8 @@ dill
 pyaml
 mlflow
 pyaml
-
+dagshub
+fastapi
+uvicorn
+requests
 # -e .
